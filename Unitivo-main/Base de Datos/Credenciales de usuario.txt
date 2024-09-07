@@ -1,0 +1,11 @@
+Perfil Vendedor
+Usuario: pepe@gmail.com
+Contraseña: Ab@1234567
+
+Perfil SuperAdministrador
+Usuario: juan@gmail.com
+Contraseña: Ab@1234567
+
+Perfil Administrador
+Usuario: maria@gmail.com
+Contraseña: Ab@1234567
